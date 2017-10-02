@@ -1,6 +1,7 @@
 # volatilityForecastingLSTM
 Volatility forecasting using a LSTM Recursive Neural Network
 Use Keras on TensorFlow with Python Scientific Libraries
+
 Deep Learning provides non-linear function approximators
 Contrast LSTM results with econometric GARCH
 Volatility is unobserved
