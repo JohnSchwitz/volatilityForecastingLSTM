@@ -1,6 +1,6 @@
- Volatility Forecasting with LSTM	October 23, 2017
+Volatility Forecasting with LSTM	October 23, 2017 // Update March 23, 2019
 
-Use Keras on TensorFlow with Python Scientific Libraries
+Use Keras on TensorFlow 2.0.0-alpha0 with Python Scientific Libraries
 
 Deep Learning provides nonlinear function approximators
     
@@ -37,6 +37,10 @@ Recursive optimization
     Mini-batches
     
     Dropout
+    
+ Natural Language Processing (NLP)
+ 
+    Added NLP components from literature.
     
     Batch Normalization
     
