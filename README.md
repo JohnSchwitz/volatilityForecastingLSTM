@@ -1,5 +1,7 @@
 Volatility Forecasting with LSTM	October 23, 2017 // Update March 23, 2019
 
+# This is **OUT OF DATE**. I will UPDATE from my notebook in May 2022.
+
 Use Keras on TensorFlow 2.0.0-alpha0 with Python Scientific Libraries
 
 Deep Learning provides nonlinear function approximators
